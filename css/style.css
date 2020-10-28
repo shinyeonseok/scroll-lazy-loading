@@ -1,0 +1,13 @@
+.site-main{
+    background-color: #eee;
+    height: auto;
+    padding:20px 0;
+}
+.container img{
+    display: block;
+    width:100%;
+    max-width: 500px;
+    margin:auto;
+    border-radius: 20px;
+    margin-bottom:40px;
+}
